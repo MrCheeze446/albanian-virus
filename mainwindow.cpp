@@ -30,7 +30,7 @@ void MainWindow::on_noButton_clicked()
    #ifdef __WIN32__
     system("duplicate.bat");
    #else
-    system("bash final");
+    system("./final");
    #endif
 }
 
