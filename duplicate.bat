@@ -1,0 +1,1 @@
+start "" ".\final.exe" :0 -clipboard -multiwindow

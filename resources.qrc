@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>winXreal.png</file>
+        <file>appico.ico</file>
+        <file>Bsodwindows10.png</file>
+    </qresource>
+</RCC>
